@@ -1,2 +1,4 @@
 ### Some React App
-- ```bash npm run start ```
+```bash 
+$ npm run start
+```
